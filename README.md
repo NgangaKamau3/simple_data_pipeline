@@ -34,5 +34,3 @@ Build and run using Docker Compose:
 ```
 docker-compose up
 ```
-
-## License
